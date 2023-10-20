@@ -1,0 +1,4 @@
+matplotlib
+notebook
+sympy
+pandoc
