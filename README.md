@@ -1,5 +1,5 @@
-# Python ate my Homework!
-A repo for resources of the talk.
+# [Python ate my Homework!](https://ekohilas.github.io/python-ate-my-homework)
+A [repo](https://github.com/ekohilas/python-ate-my-homework) for resources of the talk.
 
 ## Evan Kohilas
 
