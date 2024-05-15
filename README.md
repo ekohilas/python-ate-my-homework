@@ -6,6 +6,7 @@ A repo for resources of the talk.
 | Conference | Slides | Video | Notes | Length | Year |
 |------------|:------:|:-----:|:-----:|-------:|-----:|
 | [PyCon APAC](https://2023-apac.pycon.jp/) | [🔗](https://github.com/ekohilas/python-ate-my-homework/blob/main/python_ate_my_homework_pycon_apac_2023.ipynb) | [🔗](https://www.youtube.com/watch?v=RvPjFTwXWTI&t=22129s) | [🔗](https://2023-apac.pycon.jp/timetable?id=WQREM9) | 15 min | 2023 |
+| [PyCon US](https://us.pycon.org/2024/) | [🔗](https://github.com/ekohilas/python-ate-my-homework/blob/main/python_ate_my_homework_pycon_us_2024.ipynb) | [🔗]() | [🔗](https://us.pycon.org/2024/schedule/presentation/17/) | 30 min | 2024 |
 
 #### Abstract
 Is your relationship with maths... complicated?
