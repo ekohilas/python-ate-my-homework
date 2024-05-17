@@ -2,7 +2,7 @@
 A [repo](https://github.com/ekohilas/python-ate-my-homework) for resources of the talk.
 
 ## Evan Kohilas
-### [nohumanerrors.com](https://nohumanerrors.com)
+### [`nohumanerrors.com`](https://nohumanerrors.com)
 
 | Conference | Slides | Video | Notes | Length | Year |
 |------------|:------:|:-----:|:-----:|-------:|-----:|
